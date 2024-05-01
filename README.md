@@ -1,0 +1,3 @@
+# Cards de CS:GO
+
+Projeto acadêmico de um site contendo cards das armas do jogo CS:GO, onde cada card continha o nome, a quantidade de balas, o dano, o preço e uma imagem. Os cards são salvos em um banco de dados **MySQL** e o site foi programado utilizando **HTML**, **Bootstrap CSS** e **PHP**. O site possibilita o cadastro de um novo card, a edição de um card, a exclusão de um card e a exportação dos dados em um arquivo **.csv**. Projeto com o objetivo de aprender a conexão com banco de dados **MySQL**, CRUD completo em **PHP** e exportação de dados para arquivos **.csv** e **.json**.
